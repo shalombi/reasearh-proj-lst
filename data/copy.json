@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "c101",
+        "vendor": "Fiak Ibasa",
+        "speed": 120
+    },
+    {
+        "_id": "c102",
+        "vendor": "Mitsubali ",
+        "speed": 220
+    },
+    {
+        "_id": "c103",
+        "vendor": "Rols Mois",
+        "speed": 200
+    }
+]

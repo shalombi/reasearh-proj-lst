@@ -1,0 +1,19 @@
+/* Setup */
+
+@import './setup/variables.css';
+@import './setup/fonts.css';
+
+/* Basics */
+
+@import './basics/base.css';
+@import './basics/helpers.css';
+@import './basics/layout.css';
+
+/* Views */
+@import './views/word-details.css';
+
+/* Cmps */
+
+@import './cmps/word-list.css';
+@import './cmps/word-preview.css';
+@import './cmps/word-filter.css';

@@ -1,0 +1,13 @@
+.word-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.word-details .green {
+    color: green;
+}
+
+.word-details .red {
+    color: red;
+}
